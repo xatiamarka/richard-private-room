@@ -10,7 +10,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![Profile Count](https://komarev.com/ghpvc/?username=richard-culture&label=Project%20visits&color=blueviolet)&nbsp;
 
 # Kurulum Nasıl Yapılır?
-- `Configs` klasörünün içerisindeki `Config.json` dosyasını düzenlemen yeterli olacaktır.
+- `src/Configs` klasörünün içerisindeki `Config.json` dosyasını düzenlemen yeterli olacaktır.
 - Oda ayarlarını `<prefix>room` komutu ile yapabilirsin, harici bir komut projede bulunmamaktadır.
 # Bot İçeriğine Ait Resimler
 - eklerim tek tek
