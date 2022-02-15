@@ -13,4 +13,6 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 - `src/Configs` klasörünün içerisindeki `Config.json` dosyasını düzenlemen yeterli olacaktır.
 - Oda ayarlarını `<prefix>room` komutu ile yapabilirsin, harici bir komut projede bulunmamaktadır.
 # Bot İçeriğine Ait Resimler
-- eklerim tek tek
+- Tek gif herşeyi anlatıyor.
+
+![brave_3atc8qNLOb](https://user-images.githubusercontent.com/97298322/154132605-0090e243-b9fa-4dc0-a494-8db1191f8f1a.gif)
