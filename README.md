@@ -1,6 +1,6 @@
-# Richard Drip Culture Sistemi
+# Richard Özel Oda Sistemi
 
-- İlerleyen süreçte uygun oldukça ekleyeceğim amacım sadece projeleri oluşturmak ve ssleri toparlamak.
+- pc rahat verirse yapcam işte.
 - Sistem genel olarak ekip sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
@@ -10,6 +10,7 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 ![Profile Count](https://komarev.com/ghpvc/?username=richard-culture&label=Project%20visits&color=blueviolet)&nbsp;
 
 # Kurulum Nasıl Yapılır?
-- Bir sonraki düzenlemede anlatacağım
+- `Configs` klasörünün içerisindeki `Config.json` dosyasını düzenlemen yeterli olacaktır.
+- Oda ayarlarını `<prefix>room` komutu ile yapabilirsin, harici bir komut projede bulunmamaktadır.
 # Bot İçeriğine Ait Resimler
-- resimleri toplu düzenlemede paylaşacağım
+- eklerim tek tek
