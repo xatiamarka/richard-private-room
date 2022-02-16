@@ -15,4 +15,5 @@ Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
 # Bot İçeriğine Ait Resimler
 - Tek gif herşeyi anlatıyor.
 
-![brave_3atc8qNLOb](https://user-images.githubusercontent.com/97298322/154132605-0090e243-b9fa-4dc0-a494-8db1191f8f1a.gif)
+![gif-1](https://user-images.githubusercontent.com/97298322/154132605-0090e243-b9fa-4dc0-a494-8db1191f8f1a.gif)
+![ss-1](https://user-images.githubusercontent.com/97298322/154375632-b73cd70b-048c-4830-b53f-457118b8cb6b.PNG)
